@@ -1,0 +1,29 @@
+$color1: #f2ecdd; // 缟
+$color2: #fefbf0; // 象牙白
+$color3: #fff; // 精白
+$color4: #f1fcfe; // 雪白
+$color5: #e9f0f5; // 霜色
+$color6: #e9f0f5; // 月白
+$color7: #87ada6; // 水色
+$color8: #559687; // 铜色
+$color9: #426665; // 黛绿
+$color10: #41545c; // 黯
+$color11: #41545c; // 墨色
+
+@function test($arg1, $arg2) {
+  $result: $arg1 + $arg2;
+
+  @return $result;
+}
+
+@mixin inline-height($height) {
+  height: $height;
+  line-height: $height;
+}
+
+@mixin flex-row($align: normal) {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: $align;
+}

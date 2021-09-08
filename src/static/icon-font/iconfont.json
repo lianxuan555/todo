@@ -1,0 +1,100 @@
+{
+  "id": "2794165",
+  "name": "古风",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12363062",
+      "name": "古风物件，中国风，扇子，折扇",
+      "font_class": "fan",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "12363187",
+      "name": "古风物件，中国风，伞，古风伞",
+      "font_class": "umbrella",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "12363259",
+      "name": "古风物件，中国风，铜钱，圆形方孔钱2",
+      "font_class": "coin",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "12363274",
+      "name": "古风物件，中国风，古代器物，礼器，食器，三足鼎",
+      "font_class": "tripod",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "12363298",
+      "name": "古风物件，中国风，古代器物，酒器，爵",
+      "font_class": "cup",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "12363318",
+      "name": "古风物件，中国风，文房四宝，笔，毛笔",
+      "font_class": "ink_brush",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "12363366",
+      "name": "古风物件，中国风，文房四宝，纸",
+      "font_class": "paper",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "12363374",
+      "name": "古风物件，中国风，古代书",
+      "font_class": "book",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "12363613",
+      "name": "古风物件，中国风，竹简",
+      "font_class": "scroll",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "12363655",
+      "name": "古风物件，中国风，古代兵器，剑，古剑",
+      "font_class": "sword",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "12363686",
+      "name": "古风物件，中国风，古代兵器，刀，环首刀",
+      "font_class": "knife",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "12363699",
+      "name": "古风物件，中国风，古代兵器，弓箭",
+      "font_class": "bow",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "12363886",
+      "name": "古风物件，中国风，古代乐器，笛子",
+      "font_class": "flute",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    }
+  ]
+}

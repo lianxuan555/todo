@@ -1,0 +1,14 @@
+@import "@/style/common.scss";
+
+.header {
+  @include flex-row(space-between);
+  @include inline-height(30px);
+  width: 100%;
+  color: $color7;
+  font-size: 18px;
+  background-color: $color11;
+
+  .header-title {
+    flex: 1;
+  }
+}

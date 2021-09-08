@@ -1,0 +1,66 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2794165 */
+  src: url("iconfont.woff2?t=1630977914104") format("woff2"),
+    url("iconfont.woff?t=1630977914104") format("woff"),
+    url("iconfont.ttf?t=1630977914104") format("truetype");
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fan:before {
+  content: "\e621";
+}
+
+.icon-umbrella:before {
+  content: "\e624";
+}
+
+.icon-coin:before {
+  content: "\e62a";
+}
+
+.icon-tripod:before {
+  content: "\e62b";
+}
+
+.icon-cup:before {
+  content: "\e62d";
+}
+
+.icon-ink_brush:before {
+  content: "\e62e";
+}
+
+.icon-paper:before {
+  content: "\e630";
+}
+
+.icon-book:before {
+  content: "\e631";
+}
+
+.icon-scroll:before {
+  content: "\e632";
+}
+
+.icon-sword:before {
+  content: "\e634";
+}
+
+.icon-knife:before {
+  content: "\e635";
+}
+
+.icon-bow:before {
+  content: "\e636";
+}
+
+.icon-flute:before {
+  content: "\e63d";
+}
