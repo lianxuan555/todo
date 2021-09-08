@@ -22,5 +22,6 @@
   },
   "include": [
     "src"
-  ]
+, "src/static/icon-font"  ],
+  "extends": "./tsconfig.path.json"
 }
