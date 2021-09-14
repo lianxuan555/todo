@@ -1,12 +1,13 @@
 import { type } from 'os'
 import React, { VFC } from 'react'
 import classnames from 'classnames'
+import { BaseComponent } from '../types/utils'
 
-type IconProps = {
+type IconProps = BaseComponent<{
   name: string
-}
+}>
 
 export const Icon: VFC<IconProps> = (props) => {
-  const { name } = props
-  return <div className={classnames('icon', 'iconfont', name)} />
+  const { name, className } = props
+  return <div className={classnames(className, 'icon', 'icon-font', name)} />
 }

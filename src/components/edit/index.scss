@@ -1,0 +1,31 @@
+@import "@/style/common.scss";
+
+.edit {
+  @include half-line--before($editText);
+  color: $editText;
+  font-size: $font-normal;
+  background-color: $editBg;
+  border-radius: $radius;
+
+  .edit-textarea {
+    .textarea-wrapper {
+      border: 1px solid $editText;
+      border-radius: $radius;
+    }
+  }
+}
+
+.edit-item {
+  @include flex-row(space-around);
+  align-items: flex-start;
+  padding: $pd-row;
+}
+
+.edit-menu {
+  @include flex-row();
+  padding: 6px;
+
+  .icon {
+    margin-left: $pd-row;
+  }
+}

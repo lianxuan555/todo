@@ -10,6 +10,19 @@ $color9: #426665; // 黛绿
 $color10: #41545c; // 黯
 $color11: #41545c; // 墨色
 
+$contentBg: $color4;
+$contentText: $color9;
+$editBg: $color10;
+$editTextDisabled: $color7;
+$editText: $color6;
+
+$pd-row: 10px;
+$radius: $pd-row 0 0 $pd-row;
+
+$font-large: 24px;
+$font-normal: 18px;
+$font-small: 14px;
+
 @function test($arg1, $arg2) {
   $result: $arg1 + $arg2;
 
@@ -26,4 +39,33 @@ $color11: #41545c; // 墨色
   flex-direction: row;
   align-items: center;
   justify-content: $align;
+}
+
+@mixin flex-column($align: normal) {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: $align;
+}
+
+@mixin half-line--before($color) {
+  .half-line--before {
+    position: relative;
+
+    &::before {
+      position: absolute;
+      top: 0;
+      width: 100%;
+      height: 1px;
+      background-color: $color;
+      transform: scaleY(0.5);
+      content: "";
+    }
+  }
+}
+
+.title {
+  padding: 20px $pd-row;
+  font-weight: 600;
+  font-size: 24px;
 }

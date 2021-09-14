@@ -1,6 +1,13 @@
 @import "@/style/common.scss";
 
 .todo-list {
+  max-width: 800px;
+  margin: 0 auto;
+  overflow-y: auto;
   color: $color9;
   background-color: $color4;
+}
+
+.todo-list__wrapper {
+  padding: 40px $pd-row;
 }

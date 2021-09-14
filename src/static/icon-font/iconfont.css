@@ -1,66 +1,143 @@
 @font-face {
-  font-family: "iconfont"; /* Project id 2794165 */
-  src: url("iconfont.woff2?t=1630977914104") format("woff2"),
-    url("iconfont.woff?t=1630977914104") format("woff"),
-    url("iconfont.ttf?t=1630977914104") format("truetype");
+  font-family: "icon-font"; /* Project id 2807614 */
+  src: url('iconfont.woff2?t=1631460106122') format('woff2'),
+       url('iconfont.woff?t=1631460106122') format('woff'),
+       url('iconfont.ttf?t=1631460106122') format('truetype');
 }
 
-.iconfont {
-  font-family: "iconfont" !important;
-  font-size: 16px;
+.icon-font {
+  font-family: "icon-font" !important;
+  font-size: 24px;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-fan:before {
+.icon-close:before {
+  content: "\e61f";
+}
+
+.icon-mail:before {
+  content: "\e620";
+}
+
+.icon-collect:before {
   content: "\e621";
 }
 
-.icon-umbrella:before {
+.icon-clear:before {
+  content: "\e622";
+}
+
+.icon-favourite:before {
+  content: "\e623";
+}
+
+.icon-redo:before {
   content: "\e624";
 }
 
-.icon-coin:before {
+.icon-left:before {
+  content: "\e625";
+}
+
+.icon-message:before {
+  content: "\e626";
+}
+
+.icon-more:before {
+  content: "\e627";
+}
+
+.icon-search:before {
+  content: "\e628";
+}
+
+.icon-rank:before {
+  content: "\e629";
+}
+
+.icon-right:before {
   content: "\e62a";
 }
 
-.icon-tripod:before {
+.icon-pause:before {
   content: "\e62b";
 }
 
-.icon-cup:before {
+.icon-paly:before {
+  content: "\e62c";
+}
+
+.icon-user:before {
   content: "\e62d";
 }
 
-.icon-ink_brush:before {
+.icon-time:before {
   content: "\e62e";
 }
 
-.icon-paper:before {
+.icon-menu:before {
+  content: "\e62f";
+}
+
+.icon-edit:before {
   content: "\e630";
 }
 
-.icon-book:before {
+.icon-send:before {
   content: "\e631";
 }
 
-.icon-scroll:before {
+.icon-transfer:before {
   content: "\e632";
 }
 
-.icon-sword:before {
+.icon-down:before {
+  content: "\e633";
+}
+
+.icon-plus:before {
   content: "\e634";
 }
 
-.icon-knife:before {
+.icon-finish:before {
   content: "\e635";
 }
 
-.icon-bow:before {
+.icon-lock:before {
   content: "\e636";
 }
 
-.icon-flute:before {
+.icon-minus:before {
+  content: "\e637";
+}
+
+.icon-top:before {
+  content: "\e638";
+}
+
+.icon-phone:before {
+  content: "\e639";
+}
+
+.icon-camera:before {
+  content: "\e63a";
+}
+
+.icon-fabulous:before {
+  content: "\e63b";
+}
+
+.icon-notice:before {
+  content: "\e63c";
+}
+
+.icon-unlock:before {
   content: "\e63d";
 }
+
+.icon-home:before {
+  content: "\e63e";
+}
+

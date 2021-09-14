@@ -1,0 +1,27 @@
+@import "@/style/common.scss";
+
+$textarea-height: $font-normal + 6px;
+
+.textarea {
+  box-sizing: border-box;
+  width: 100%;
+  font-size: $font-normal;
+}
+
+.textarea-wrapper {
+  position: relative;
+  padding: 6px;
+}
+
+.textarea-input {
+  min-height: $textarea-height;
+  outline: none;
+}
+
+.textarea-placeholder {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  color: $editTextDisabled;
+  line-height: $textarea-height;
+}

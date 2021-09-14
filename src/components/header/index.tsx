@@ -13,6 +13,7 @@ const Header: VFC<HeaderProps> = (props) => {
   const { title, setTitleDispatch } = props
   return (
     <div className="header">
+      <Icon name="icon-home" />
       <span className="header-title">{title}</span>
       <div
         className="header-button"
@@ -20,7 +21,7 @@ const Header: VFC<HeaderProps> = (props) => {
           setTitleDispatch('测试')
         }}
       >
-        <Icon name="icon-scroll" />
+        <Icon name="icon-menu" />
       </div>
     </div>
   )

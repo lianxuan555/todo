@@ -1,4 +1,3 @@
-import { is } from 'immer/dist/internal'
 import { CSSProperties } from 'react'
 
 /** 变量是否是对象 */

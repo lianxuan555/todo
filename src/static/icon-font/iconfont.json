@@ -1,100 +1,233 @@
 {
-  "id": "2794165",
-  "name": "古风",
-  "font_family": "iconfont",
+  "id": "2807614",
+  "name": "基本配置",
+  "font_family": "icon-font",
   "css_prefix_text": "icon-",
   "description": "",
   "glyphs": [
     {
-      "icon_id": "12363062",
-      "name": "古风物件，中国风，扇子，折扇",
-      "font_class": "fan",
+      "icon_id": "24264071",
+      "name": "icon_close",
+      "font_class": "icon_close",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "24264072",
+      "name": "icon_mail",
+      "font_class": "icon_mail",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "24264073",
+      "name": "icon_collection_start",
+      "font_class": "icon_collect",
       "unicode": "e621",
       "unicode_decimal": 58913
     },
     {
-      "icon_id": "12363187",
-      "name": "古风物件，中国风，伞，古风伞",
-      "font_class": "umbrella",
+      "icon_id": "24264074",
+      "name": "icon_delete",
+      "font_class": "icon_clear",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "24264076",
+      "name": "icon_collection_heart",
+      "font_class": "icon_favourite",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "24264077",
+      "name": "icon_comeback",
+      "font_class": "icon_redo",
       "unicode": "e624",
       "unicode_decimal": 58916
     },
     {
-      "icon_id": "12363259",
-      "name": "古风物件，中国风，铜钱，圆形方孔钱2",
-      "font_class": "coin",
+      "icon_id": "24264078",
+      "name": "icon_left",
+      "font_class": "icon_left",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "24264083",
+      "name": "icon_contact",
+      "font_class": "icon_message",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "24264084",
+      "name": "icon_more1",
+      "font_class": "icon_more",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "24264085",
+      "name": "icon_search",
+      "font_class": "icon_search",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "24264086",
+      "name": "icon_rank",
+      "font_class": "icon_rank",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "24264087",
+      "name": "icon_right",
+      "font_class": "icon_right",
       "unicode": "e62a",
       "unicode_decimal": 58922
     },
     {
-      "icon_id": "12363274",
-      "name": "古风物件，中国风，古代器物，礼器，食器，三足鼎",
-      "font_class": "tripod",
+      "icon_id": "24264088",
+      "name": "ARC内部系统图标库_线条",
+      "font_class": "icon_pause",
       "unicode": "e62b",
       "unicode_decimal": 58923
     },
     {
-      "icon_id": "12363298",
-      "name": "古风物件，中国风，古代器物，酒器，爵",
-      "font_class": "cup",
+      "icon_id": "24264089",
+      "name": "icon_paly-1",
+      "font_class": "icon_paly",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "24264090",
+      "name": "icon_username",
+      "font_class": "icon_user",
       "unicode": "e62d",
       "unicode_decimal": 58925
     },
     {
-      "icon_id": "12363318",
-      "name": "古风物件，中国风，文房四宝，笔，毛笔",
-      "font_class": "ink_brush",
+      "icon_id": "24264091",
+      "name": "icon_time",
+      "font_class": "icon_time",
       "unicode": "e62e",
       "unicode_decimal": 58926
     },
     {
-      "icon_id": "12363366",
-      "name": "古风物件，中国风，文房四宝，纸",
-      "font_class": "paper",
+      "icon_id": "24264092",
+      "name": "icon_more2",
+      "font_class": "icon_menu",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "24264093",
+      "name": "icon_write",
+      "font_class": "icon_edit",
       "unicode": "e630",
       "unicode_decimal": 58928
     },
     {
-      "icon_id": "12363374",
-      "name": "古风物件，中国风，古代书",
-      "font_class": "book",
+      "icon_id": "24264094",
+      "name": "icon_send",
+      "font_class": "icon_send",
       "unicode": "e631",
       "unicode_decimal": 58929
     },
     {
-      "icon_id": "12363613",
-      "name": "古风物件，中国风，竹简",
-      "font_class": "scroll",
+      "icon_id": "24264095",
+      "name": "icon_search-1",
+      "font_class": "icon_transfer",
       "unicode": "e632",
       "unicode_decimal": 58930
     },
     {
-      "icon_id": "12363655",
-      "name": "古风物件，中国风，古代兵器，剑，古剑",
-      "font_class": "sword",
+      "icon_id": "24264096",
+      "name": "icon_down",
+      "font_class": "icon_down",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "24264097",
+      "name": "icon_plus_all",
+      "font_class": "icon_plus",
       "unicode": "e634",
       "unicode_decimal": 58932
     },
     {
-      "icon_id": "12363686",
-      "name": "古风物件，中国风，古代兵器，刀，环首刀",
-      "font_class": "knife",
+      "icon_id": "24264099",
+      "name": "icon_finish",
+      "font_class": "icon_finish",
       "unicode": "e635",
       "unicode_decimal": 58933
     },
     {
-      "icon_id": "12363699",
-      "name": "古风物件，中国风，古代兵器，弓箭",
-      "font_class": "bow",
+      "icon_id": "24264101",
+      "name": "icon_password",
+      "font_class": "icon_lock",
       "unicode": "e636",
       "unicode_decimal": 58934
     },
     {
-      "icon_id": "12363886",
-      "name": "古风物件，中国风，古代乐器，笛子",
-      "font_class": "flute",
+      "icon_id": "24264102",
+      "name": "icon_min_all",
+      "font_class": "icon_minus",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "24264103",
+      "name": "icon_top",
+      "font_class": "icon_top",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "24264104",
+      "name": "icon_telephone",
+      "font_class": "icon_phone",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "24264106",
+      "name": "icon_camera",
+      "font_class": "icon_camera",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "24264107",
+      "name": "icon_fabulous",
+      "font_class": "icon_fabulous",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "24264112",
+      "name": "icon_notice2",
+      "font_class": "icon_notice",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "24264121",
+      "name": "icon_password_open",
+      "font_class": "icon_unlock",
       "unicode": "e63d",
       "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "24264123",
+      "name": "icon_home",
+      "font_class": "icon_home",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
     }
   ]
 }

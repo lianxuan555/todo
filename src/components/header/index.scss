@@ -3,10 +3,12 @@
 .header {
   @include flex-row(space-between);
   @include inline-height(30px);
+  box-sizing: border-box;
   width: 100%;
-  color: $color7;
+  padding: 20px $pd-row;
+  color: $editText;
   font-size: 18px;
-  background-color: $color11;
+  background-color: $editBg;
 
   .header-title {
     flex: 1;
